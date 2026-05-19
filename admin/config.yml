@@ -7,14 +7,21 @@ public_folder: "/uploads"
 
 collections:
   - name: "posts"
-    label: "Blog Posts"
-    folder: "posts"
-    create: true
-    slug: "{{slug}}"
+    label: "Posts"
 
-    fields:
-      - {label: "Title", name: "title", widget: "string"}
+    files:
+      - label: "Blog Posts"
+        name: "blog"
+        file: "posts/posts.json"
 
-      - {label: "Image", name: "image", widget: "image"}
+        fields:
+          - label: "Posts"
+            name: "posts"
+            widget: "list"
 
-      - {label: "Description", name: "description", widget: "text"}
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
+
+              - {label: "Image", name: "image", widget: "image"}
+
+              - {label: "Description", name: "description", widget: "text"}
