@@ -1,14 +1,14 @@
-{
+﻿{
   "posts": [
     {
-      "title": "Air Jordan 6",
-      "image": "/uploads/nike-air-jordan-6-retro.jpeg",
-      "description": "Classic retro"
+      "title": "Air Jordan 6 Retro",
+      "image": "/uploads/nike-air-jordan-6.jpeg",
+      "description": "A legendary silhouette with premium leather and street-ready style."
     },
     {
-      "title": "adidas samba",
-      "description": "a timeless, low-profile sneaker known for its sleek design, featuring a soft leather upper, a suede T-toe, and a signature textured gum rubber sole",
-      "image": "/uploads/adidas_samba_og.jpg"
+      "title": "Adidas Samba OG",
+      "image": "/uploads/adidas-samba-og.jpg",
+      "description": "Timeless court-inspired design made for city streets and sneaker culture."
     }
   ]
 }
