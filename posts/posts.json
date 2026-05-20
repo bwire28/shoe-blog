@@ -4,6 +4,11 @@
       "title": "air max",
       "description": "an iconic running shoe designed by Sergio Lozano, celebrated for its unique human anatomy-inspired design and chunky '90s aesthetic",
       "image": "/uploads/airmax.jpg"
+    },
+    {
+      "title": "adidas samba",
+      "image": "/uploads/adidas-samba-og.jpg",
+      "description": "a legendary, low-profile sneaker blending timeless retro-sport aesthetics with everyday streetwear versatility"
     }
   ]
 }
