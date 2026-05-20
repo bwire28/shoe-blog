@@ -4,6 +4,11 @@
       "title": "Air Jordan 6",
       "image": "/uploads/nike-air-jordan-6-retro.jpeg",
       "description": "Classic retro"
+    },
+    {
+      "title": "adidas samba",
+      "description": "a timeless, low-profile sneaker known for its sleek design, featuring a soft leather upper, a suede T-toe, and a signature textured gum rubber sole",
+      "image": "/uploads/adidas_samba_og.jpg"
     }
   ]
 }
