@@ -1,14 +1,9 @@
-﻿{
+{
   "posts": [
     {
-      "title": "Air Jordan 6 Retro",
-      "image": "/uploads/nike-air-jordan-6.jpeg",
-      "description": "A legendary silhouette with premium leather and street-ready style."
-    },
-    {
-      "title": "Adidas Samba OG",
-      "image": "/uploads/adidas-samba-og.jpg",
-      "description": "Timeless court-inspired design made for city streets and sneaker culture."
+      "title": "air max",
+      "description": "an iconic running shoe designed by Sergio Lozano, celebrated for its unique human anatomy-inspired design and chunky '90s aesthetic",
+      "image": "/uploads/airmax.jpg"
     }
   ]
 }
